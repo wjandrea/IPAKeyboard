@@ -376,7 +376,7 @@
         <key char="ʼ" group="extra" id="E14" tooltip="ejective" label="ʼ"/>
         <key char="˺" group="extra" id="E15" tooltip="no audible release" label="˺"/>
         <key char="&#x33c;" group="extra" id="E16" tooltip="linguo labial" label="⚬&#x33c;"/>
-        <key char="&#x334;" group="extra" id="E17" tooltip="velarized or pharyngealized" label="⚬&#x334;"/>
+        <key char="&#x334;" group="extra" id="E17" tooltip="velarized or pharyngealized" label="&#x334;"/>
         <key char="&#x31d;" group="extra" id="E18" tooltip="raised" label="⚬&#x31d;"/>
         <key char="&#x33a;" group="extra" id="E19" tooltip="dental" label="⚬&#x33a;"/>
         <key char="&#x32a;" group="extra" id="E20" tooltip="apical" label="⚬&#x32a;"/>
