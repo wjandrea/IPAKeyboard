@@ -295,8 +295,8 @@
         <key group="click" id="settings" tooltip="settings"/>
         <key group="click" id="move" tooltip="move"/>
 
-    </panel>
-    <panel filename="IPA-others.svg" layer="Others" unlatch_layer="false">
+      </panel>
+      <panel filename="IPA-others.svg" layer="Others" unlatch_layer="false">
 
         <!-- Clicks-->
         <key group="legend" id="txt1" label="Clicks"/>
@@ -403,7 +403,7 @@
         <key group="click" id="quit" tooltip="quit keyboard"/>
         <key group="click" id="settings" tooltip="settings"/>
         <key group="click" id="move" tooltip="move"/>
-        </panel>
+      </panel>
     </panel>
   </box>
 </keyboard>
