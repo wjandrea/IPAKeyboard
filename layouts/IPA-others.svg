@@ -108,6 +108,30 @@
      id="txt1"
      inkscape:label="#text" />
   <rect
+     x="0.63081741"
+     y="120.63508"
+     width="46.737225"
+     height="22.737225"
+     style="fill:#e5d8b2;stroke:#000000;stroke-width:1.26315784"
+     id="txt21"
+     inkscape:label="#text" />
+  <rect
+     x="0.63193035"
+     y="144.63622"
+     width="22.73646"
+     height="22.737225"
+     style="fill:#e5d8b2;stroke:#000000;stroke-width:1.26315784"
+     id="F1"
+     inkscape:label="#rect3419" />
+  <rect
+     x="24.631947"
+     y="144.63622"
+     width="22.73646"
+     height="22.737225"
+     style="fill:#e5d8b2;stroke:#000000;stroke-width:1.26315784"
+     id="F2"
+     inkscape:label="#rect3420" />
+  <rect
      x="60.631187"
      y="24.633898"
      width="46.737225"

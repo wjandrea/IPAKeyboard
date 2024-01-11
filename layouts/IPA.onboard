@@ -306,6 +306,10 @@
         <key char="ǃ" group="alphanumeric" id="A4" tooltip="retroflex click" label="ǃ"/>
         <key char="ʘ" group="alphanumeric" id="A5" tooltip="bilabial click" label="ʘ"/>
 
+        <key group="legend" id="txt21" label="Brackets"/>
+        <key char="⟨" group="extra" id="F1" tooltip="open angle bracket" label="⟨"/>
+        <key char="⟩" group="extra" id="F2" tooltip="close angle bracket" label="⟩"/>
+
         <!-- Suprasegmental -->
         <key group="legend" id="txt2" label="Suprasegmental"/>
 
