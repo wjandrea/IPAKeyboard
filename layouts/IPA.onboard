@@ -164,7 +164,7 @@
 
         <!-- Lateral approximant-->
         <key group="legend" id="txt19" label="Lateral approximant"/>
-<key char="l" group="alphanumeric" id="H1" tooltip="vd alveolar lateral" label="l"/>
+        <key char="l" group="alphanumeric" id="H1" tooltip="vd alveolar lateral" label="l"/>
 
         <!-- Extra -->
 
