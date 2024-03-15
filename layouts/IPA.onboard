@@ -320,7 +320,7 @@
         <key char="∣" group="extra" id="B5" tooltip="minor (foot) group" label="∣"/>
         <key char="∥" group="extra" id="B6" tooltip="major (intonation) group" label="∥"/>
         <key char="." group="extra" id="B7" tooltip="syllable break" label="."/>
-        <key char="&#x35c;" group="extra" id="B8" tooltip="linking" label="⚬&#x35c;⚬"/>
+        <key char="‿" group="extra" id="B8" tooltip="linking" label="‿"/>
 
 
 
@@ -379,7 +379,7 @@
         <key char="ʱ" group="extra" id="E12" tooltip="breathy-voice-aspirated" label="ʱ"/>
         <key char="ʴ" group="extra" id="E13" tooltip="rhotacized" label="ʴ"/>
         <key char="ʼ" group="extra" id="E14" tooltip="ejective" label="ʼ"/>
-        <key char="˺" group="extra" id="E15" tooltip="no audible release" label="˺"/>
+        <key char="&#x31a;" group="extra" id="E15" tooltip="no audible release" label="⚬&#x31a;"/>
         <key char="&#x33c;" group="extra" id="E16" tooltip="linguo labial" label="⚬&#x33c;"/>
         <key char="&#x334;" group="extra" id="E17" tooltip="velarized or pharyngealized" label="&#x334;"/>
         <key char="&#x31d;" group="extra" id="E18" tooltip="raised" label="⚬&#x31d;"/>
